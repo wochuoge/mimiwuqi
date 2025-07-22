@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>
+    
+    
+    Socks5 Proxy List
+  </title>
+
+  <meta name="description" content="Free Socks5 Proxy List . Just checked and ready to navigate anonymously.">
+
+
+  <script type="application/ld+json">
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Proxy List",
+            "item": "https://www.proxy-list.download"
+          },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "SOCKS5 Proxies",
+            "item": "https://www.proxy-list.download/SOCKS5"
+          }]
+        }
+      </script>
+      <script type="text/javascript">var islstt = true; var llstt = true;</script>
+  <meta property="og:title" content="Socks5 Proxy List" />
+  <meta property="og:description" content="Free Socks 5 proxies the best ones for advanced anonymize." />
+  <meta property="og:url" content="https://www.proxy-list.download/SOCKS5" />
+  <meta property="og:image" content="https://www.proxy-list.download/images/fdpxtb.jpg" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:title" content="Socks5 Proxy List" />
+  <meta property="twitter:description" content="Free Socks 5 proxies the best ones for advanced anonymize." />
+  <meta property="twitter:image" content="https://www.proxy-list.download/images/fdpxtb.jpg" />
+  <meta name="theme-color" content="#00595f">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="https://www.proxy-list.download/css/style.css">
+  <link rel="shortcut icon" href="https://www.proxy-list.download/img/favicon.ico" type="image/x-icon"/>
+
+
+  <style type="text/css">
+    .non-slect {
+      background-color: white;
+      color: black;
+    }
+
+    .y-slect {
+      background-color: #0062cc;
+      color: white;
+    }
+
+    #tabli {
+      min-height: 1277px !important;
+    }
+
+    .checkbxs {
+      display: inline-block !important;
+      padding-left: 5em !important;
+    }
+
+    @media (max-width: 600px) {
+      .checkbxs {
+        display: block !important;
+        padding-left: 1.5em !important;
+      }
+
+      .tbcontai {
+        overflow: scroll;
+      }
+
+      .mrg15 {
+        margin-bottom: 15px;
+      }
+    }
+  </style>
+  <script>var proxyType = "socks5";</script>
+
+
+  <script>
+    function toggleDrosp(iid) {
+      var mennu = document.getElementById(iid);
+      if (mennu.style.display == "none" || mennu.style.display == "") {
+        mennu.style.display = "block";
+      } else {
+        mennu.style.display = "none";
+      }
+    }
+  </script>
+</head>
+
+<body class="hold-transition layout-top-nav">
+  <div class="wrapper">
+
+    <header>
+      <!-- Navbar -->
+      <nav class="main-header navbar navbar-expand-md navbar-dark navbar-primary">
+        <div class="container">
+          <a href="https://www.proxy-list.download" class="navbar-brand">
+            <img src="https://www.proxy-list.download/img/logo.webp" alt="logo" class="brand-image" style="opacity: .8">
+          </a>
+          <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+            aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="toggleDrosp('navbarCollapse');">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse order-3" id="navbarCollapse">
+            <!-- Left navbar links -->
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a href="https://www.proxy-list.download/HTTP" class="nav-link">Proxies HTTP</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://www.proxy-list.download/HTTPS" class="nav-link">SSL Proxies</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://www.proxy-list.download/SOCKS4" class="nav-link">SOCKS 4</a>
+              </li>
+              <li class="nav-item">
+                <a href="https://www.proxy-list.download/SOCKS5" class="nav-link">SOCKS 5</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a id="dropdownSubMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="nav-link dropdown-toggle"
+                  onclick="toggleDrosp('drosp2');">More</a>
+                <ul id="drosp2" aria-labelledby="dropdownSubMenu1" class="dropdown-menu border-0 shadow">
+                    <li><a href="https://www.proxy-list.download/api/v1" class="dropdown-item">API</a></li>
+                    <li><a href="https://www.proxy-list.download/freemium" class="dropdown-item">Freemium</a></li>
+                  <li><a href="https://www.proxy-list.download/Blog" class="dropdown-item">Blog</a></li>
+                  <li><a href="https://www.proxy-list.download/web-proxy-list" class="dropdown-item">Web Proxy</a></li>
+                  <li><a href="https://chrome.google.com/webstore/detail/proxy-list-scraper/nkmamacnhccoaeblcleolehebffimpcf" class="dropdown-item">Proxy List Scraper</a></li>
+                  <li><a href="https://www.proxy-list.download/proxy-scraper" class="dropdown-item">Online Proxy Scraper</a></li>
+                  <li><a href="https://vpn-free.download" class="dropdown-item">VPN</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+      </nav>
+      <!-- /.navbar -->
+
+    </header>
+
+    <!-- Content Wrapper. Contains page content -->
+    <div class="content-wrapper">
+
+      <!-- Main content -->
+      <div class="content">
+        <div class="container">
+          <div class="row">
+
+            <div class="col-12 my-5">
+
+              <div class="card">
+                <div class="card-body">
+                  <h1>
+                      
+                        Socks 5 Proxies
+                      
+                  </h1>
+
+                  <p class="lead">
+                      
+                        SOCKS 5 Proxies is the version 5 and the latest version of the SOCKS protocol, unlike SOCKS4, SOCKS5 proxies incorporates support for TCP and UDP communications, includes support for authentication from the client to the proxy server and support IPv6 and DNS resolving by default.
+                      
+                  </p>
+                  <p class="lead">
+                    Every proxy from this list are auto updated, all proxy servers has a full information about proxy location, proxy port and proxy speed.
+                  </p>
+                </div>
+              </div>
+
+              <div class="card">
+                <div class="card-header">
+                  <h2 class="card-title">
+                    
+                    
+                    Socks5 Proxy List
+                  </h2>
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                  <div id="example1_wrapper" class="dataTables_wrapper dt-bootstrap4">
+                    <div class="row my-3">
+                      <div class="col-sm-12 col-md-6">
+                        <div class="dt-buttons btn-group flex-wrap">
+                          <button onclick="bncopyy();" class="btn btn-secondary buttons-copy buttons-html5" tabindex="0"
+                            aria-controls="example1" type="button"><span>Copy</span>
+                          </button>
+                          <button onclick="bntxtt();" class="btn btn-secondary buttons-csv buttons-html5" tabindex="0"
+                            aria-controls="example1" type="button"><span>TXT</span>
+                          </button>
+                          <button onclick="bncsvv();" class="btn btn-secondary buttons-csv buttons-html5" tabindex="0"
+                            aria-controls="example1" type="button"><span>CSV</span>
+                          </button>
+                          <button onclick="bnjsonn();" class="btn btn-secondary buttons-csv buttons-html5" tabindex="0"
+                            aria-controls="example1" type="button"><span>JSON</span>
+                          </button>
+                          <button onclick="bnpdff();" class="btn btn-secondary buttons-pdf buttons-html5" tabindex="0"
+                            aria-controls="example1" type="button" disabled><span>PDF</span>
+                          </button>
+                          <button onclick="bnprintt();" class="btn btn-secondary buttons-print" tabindex="0"
+                            aria-controls="example1" type="button"><span>Print</span>
+                          </button>
+                        </div>
+                      </div>
+                      <div id="updty" style="margin-top:5px;" class="col-sm-12 col-md-6">Updated today</div>
+                    </div>
+                    <div class="row">
+                      <div class="tbcontai col-sm-12" style="min-height: 1357px;">
+                        <table id="example1" class="table table-bordered table-striped dataTable dtr-inline" role="grid"
+                          aria-describedby="example1_info">
+                          <thead>
+                            <tr>
+                              <th>IP Address</th>
+                              <th>Port</th>
+                              <th>Anonymity</th>
+                              <th>Country</th>
+                              <th>Speed</th>
+                            </tr>
+                          </thead>
+                          <tbody id="tabli">
+
+                            
+                            <tr>
+                              <td>
+                                98.175.31.195
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  391 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                147.45.237.170
+                              </td>
+                              <td>
+                                1080
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgRU">
+                                </i>
+                                <a href="?country=RU">
+                                  Russia
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  168 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.111.130.2
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgCA">
+                                </i>
+                                <a href="?country=CA">
+                                  Canada
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  124 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.111.130.5
+                              </td>
+                              <td>
+                                17002
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgCA">
+                                </i>
+                                <a href="?country=CA">
+                                  Canada
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  339 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                174.64.199.79
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  236 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                72.195.34.35
+                              </td>
+                              <td>
+                                27360
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  194 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                199.102.106.94
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  294 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.181.217.220
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  364 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                37.18.73.60
+                              </td>
+                              <td>
+                                5566
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgRU">
+                                </i>
+                                <a href="?country=RU">
+                                  Russia
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  273 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.178.172.14
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  290 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                198.8.84.3
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgCA">
+                                </i>
+                                <a href="?country=CA">
+                                  Canada
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  235 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                58.22.60.174
+                              </td>
+                              <td>
+                                1080
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgCN">
+                                </i>
+                                <a href="?country=CN">
+                                  China
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  355 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                107.152.98.5
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  393 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                72.195.34.60
+                              </td>
+                              <td>
+                                27391
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  257 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                67.201.58.190
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  153 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                104.37.135.145
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-teal
+                                  ">
+                                  91 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                68.71.254.6
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  396 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.252.216.81
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  124 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.252.215.5
+                              </td>
+                              <td>
+                                16137
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgCA">
+                                </i>
+                                <a href="?country=CA">
+                                  Canada
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  267 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                104.168.13.108
+                              </td>
+                              <td>
+                                1080
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  303 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                208.102.51.6
+                              </td>
+                              <td>
+                                58208
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  283 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                142.54.226.214
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-teal
+                                  ">
+                                  93 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.178.172.3
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  305 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.178.172.17
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  229 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                142.54.232.6
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  118 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                72.195.34.41
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  144 ms</span></td>
+                            </tr>
+                            
+
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="mrg15 col-sm-12 col-md-5">
+                        <div id="tpagess" class="dataTables_info" id="example1_info" role="status" aria-live="polite">Showing
+                          25 of 127 entries</div>
+                      </div>
+                      <div class="col-sm-12 col-md-7">
+                        <div class="dataTables_paginate paging_simple_numbers" id="example1_paginate">
+                          <ul class="pagination">
+                            <li style="margin-right:15px;" class="paginate_button page-item previous" id="example1_previous"><button
+                                aria-controls="example1" data-dt-idx="0" tabindex="0" class="btn btn-block btn-primary"
+                                onclick="bckpg();">Previous</button></li>
+                            <li class="paginate_button page-item next" id="example1_next"><button aria-controls="example1"
+                                data-dt-idx="7" tabindex="0" class="btn btn-block btn-primary" onclick="nxtpg();">Next</button></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!-- /.card-body -->
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="card card-secondary">
+                <div class="card-header">
+                  <h3 class="card-title">Custom settings</h3>
+                </div>
+                <!-- /.card-header -->
+                <div class="card-body">
+                  <form>
+
+                    <div class="row">
+                      <div class="col-12">
+                        <!-- text input -->
+                        <div class="form-group">
+                          <label>Port Numbers</label>
+                          <input id="tports" type="text" class="form-control" placeholder="80,3128,8080">
+                        </div>
+                        <div class="form-group">
+                          <label>Max. Ping</label>
+                          <input id="tpings" type="text" class="form-control" placeholder="120">
+                        </div>
+                        <div class="form-group">
+                          <label id="tlbl">Countries</label>
+                          <select id="slctcount" onchange="chan(this);" class="custom-select">
+                            <option class="non-slect" name="AD">Andorra</option>
+                            <option class="non-slect" name="AE">United Arab Emirates</option>
+                            <option class="non-slect" name="AF">Afghanistan</option>
+                            <option class="non-slect" name="AG">Antigua and Barbuda</option>
+                            <option class="non-slect" name="AI">Anguilla</option>
+                            <option class="non-slect" name="AL">Albania</option>
+                            <option class="non-slect" name="AM">Armenia</option>
+                            <option class="non-slect" name="AO">Angola</option>
+                            <option class="non-slect" name="AP">Asia/Pacific Region</option>
+                            <option class="non-slect" name="AQ">Antarctica</option>
+                            <option class="non-slect" name="AR">Argentina</option>
+                            <option class="non-slect" name="AS">American Samoa</option>
+                            <option class="non-slect" name="AT">Austria</option>
+                            <option class="non-slect" name="AU">Australia</option>
+                            <option class="non-slect" name="AW">Aruba</option>
+                            <option class="non-slect" name="AX">Aland Islands</option>
+                            <option class="non-slect" name="AZ">Azerbaijan</option>
+                            <option class="non-slect" name="BA">Bosnia and Herzegovina</option>
+                            <option class="non-slect" name="BB">Barbados</option>
+                            <option class="non-slect" name="BD">Bangladesh</option>
+                            <option class="non-slect" name="BE">Belgium</option>
+                            <option class="non-slect" name="BF">Burkina Faso</option>
+                            <option class="non-slect" name="BG">Bulgaria</option>
+                            <option class="non-slect" name="BH">Bahrain</option>
+                            <option class="non-slect" name="BI">Burundi</option>
+                            <option class="non-slect" name="BJ">Benin</option>
+                            <option class="non-slect" name="BL">Saint Barthelemy</option>
+                            <option class="non-slect" name="BM">Bermuda</option>
+                            <option class="non-slect" name="BN">Brunei Darussalam</option>
+                            <option class="non-slect" name="BO">Bolivia</option>
+                            <option class="non-slect" name="BQ">Bonaire, Saint Eustatius and Saba</option>
+                            <option class="non-slect" name="BR">Brazil</option>
+                            <option class="non-slect" name="BS">Bahamas</option>
+                            <option class="non-slect" name="BT">Bhutan</option>
+                            <option class="non-slect" name="BV">Bouvet Island</option>
+                            <option class="non-slect" name="BW">Botswana</option>
+                            <option class="non-slect" name="BY">Belarus</option>
+                            <option class="non-slect" name="BZ">Belize</option>
+                            <option class="non-slect" name="CA">Canada</option>
+                            <option class="non-slect" name="CC">Cocos (Keeling) Islands</option>
+                            <option class="non-slect" name="CD">Congo, The Democratic Republic of the</option>
+                            <option class="non-slect" name="CF">Central African Republic</option>
+                            <option class="non-slect" name="CG">Congo</option>
+                            <option class="non-slect" name="CH">Switzerland</option>
+                            <option class="non-slect" name="CI">Cote d'Ivoire</option>
+                            <option class="non-slect" name="CK">Cook Islands</option>
+                            <option class="non-slect" name="CL">Chile</option>
+                            <option class="non-slect" name="CM">Cameroon</option>
+                            <option class="non-slect" name="CN">China</option>
+                            <option class="non-slect" name="CO">Colombia</option>
+                            <option class="non-slect" name="CR">Costa Rica</option>
+                            <option class="non-slect" name="CU">Cuba</option>
+                            <option class="non-slect" name="CV">Cape Verde</option>
+                            <option class="non-slect" name="CW">Curacao</option>
+                            <option class="non-slect" name="CX">Christmas Island</option>
+                            <option class="non-slect" name="CY">Cyprus</option>
+                            <option class="non-slect" name="CZ">Czech Republic</option>
+                            <option class="non-slect" name="DE">Germany</option>
+                            <option class="non-slect" name="DJ">Djibouti</option>
+                            <option class="non-slect" name="DK">Denmark</option>
+                            <option class="non-slect" name="DM">Dominica</option>
+                            <option class="non-slect" name="DO">Dominican Republic</option>
+                            <option class="non-slect" name="DZ">Algeria</option>
+                            <option class="non-slect" name="EC">Ecuador</option>
+                            <option class="non-slect" name="EE">Estonia</option>
+                            <option class="non-slect" name="EG">Egypt</option>
+                            <option class="non-slect" name="EH">Western Sahara</option>
+                            <option class="non-slect" name="ER">Eritrea</option>
+                            <option class="non-slect" name="ES">Spain</option>
+                            <option class="non-slect" name="ET">Ethiopia</option>
+                            <option class="non-slect" name="EU">Europe</option>
+                            <option class="non-slect" name="FI">Finland</option>
+                            <option class="non-slect" name="FJ">Fiji</option>
+                            <option class="non-slect" name="FK">Falkland Islands (Malvinas)</option>
+                            <option class="non-slect" name="FM">Micronesia, Federated States of</option>
+                            <option class="non-slect" name="FO">Faroe Islands</option>
+                            <option class="non-slect" name="FR">France</option>
+                            <option class="non-slect" name="GA">Gabon</option>
+                            <option class="non-slect" name="GB">United Kingdom</option>
+                            <option class="non-slect" name="GD">Grenada</option>
+                            <option class="non-slect" name="GE">Georgia</option>
+                            <option class="non-slect" name="GF">French Guiana</option>
+                            <option class="non-slect" name="GG">Guernsey</option>
+                            <option class="non-slect" name="GH">Ghana</option>
+                            <option class="non-slect" name="GI">Gibraltar</option>
+                            <option class="non-slect" name="GL">Greenland</option>
+                            <option class="non-slect" name="GM">Gambia</option>
+                            <option class="non-slect" name="GN">Guinea</option>
+                            <option class="non-slect" name="GP">Guadeloupe</option>
+                            <option class="non-slect" name="GQ">Equatorial Guinea</option>
+                            <option class="non-slect" name="GR">Greece</option>
+                            <option class="non-slect" name="GS">South Georgia and the South Sandwich Islands</option>
+                            <option class="non-slect" name="GT">Guatemala</option>
+                            <option class="non-slect" name="GU">Guam</option>
+                            <option class="non-slect" name="GW">Guinea-Bissau</option>
+                            <option class="non-slect" name="GY">Guyana</option>
+                            <option class="non-slect" name="HK">Hong Kong</option>
+                            <option class="non-slect" name="HM">Heard Island and McDonald Islands</option>
+                            <option class="non-slect" name="HN">Honduras</option>
+                            <option class="non-slect" name="HR">Croatia</option>
+                            <option class="non-slect" name="HT">Haiti</option>
+                            <option class="non-slect" name="HU">Hungary</option>
+                            <option class="non-slect" name="ID">Indonesia</option>
+                            <option class="non-slect" name="IE">Ireland</option>
+                            <option class="non-slect" name="IL">Israel</option>
+                            <option class="non-slect" name="IM">Isle of Man</option>
+                            <option class="non-slect" name="IN">India</option>
+                            <option class="non-slect" name="IO">British Indian Ocean Territory</option>
+                            <option class="non-slect" name="IQ">Iraq</option>
+                            <option class="non-slect" name="IR">Iran, Islamic Republic of</option>
+                            <option class="non-slect" name="IS">Iceland</option>
+                            <option class="non-slect" name="IT">Italy</option>
+                            <option class="non-slect" name="JE">Jersey</option>
+                            <option class="non-slect" name="JM">Jamaica</option>
+                            <option class="non-slect" name="JO">Jordan</option>
+                            <option class="non-slect" name="JP">Japan</option>
+                            <option class="non-slect" name="KE">Kenya</option>
+                            <option class="non-slect" name="KG">Kyrgyzstan</option>
+                            <option class="non-slect" name="KH">Cambodia</option>
+                            <option class="non-slect" name="KI">Kiribati</option>
+                            <option class="non-slect" name="KM">Comoros</option>
+                            <option class="non-slect" name="KN">Saint Kitts and Nevis</option>
+                            <option class="non-slect" name="KP">Korea, Democratic People's Republic of</option>
+                            <option class="non-slect" name="KR">Korea, Republic of</option>
+                            <option class="non-slect" name="KW">Kuwait</option>
+                            <option class="non-slect" name="KY">Cayman Islands</option>
+                            <option class="non-slect" name="KZ">Kazakhstan</option>
+                            <option class="non-slect" name="LA">Lao People's Democratic Republic</option>
+                            <option class="non-slect" name="LB">Lebanon</option>
+                            <option class="non-slect" name="LC">Saint Lucia</option>
+                            <option class="non-slect" name="LI">Liechtenstein</option>
+                            <option class="non-slect" name="LK">Sri Lanka</option>
+                            <option class="non-slect" name="LR">Liberia</option>
+                            <option class="non-slect" name="LS">Lesotho</option>
+                            <option class="non-slect" name="LT">Lithuania</option>
+                            <option class="non-slect" name="LU">Luxembourg</option>
+                            <option class="non-slect" name="LV">Latvia</option>
+                            <option class="non-slect" name="LY">Libyan Arab Jamahiriya</option>
+                            <option class="non-slect" name="MA">Morocco</option>
+                            <option class="non-slect" name="MC">Monaco</option>
+                            <option class="non-slect" name="MD">Moldova, Republic of</option>
+                            <option class="non-slect" name="ME">Montenegro</option>
+                            <option class="non-slect" name="MF">Saint Martin</option>
+                            <option class="non-slect" name="MG">Madagascar</option>
+                            <option class="non-slect" name="MH">Marshall Islands</option>
+                            <option class="non-slect" name="MK">Macedonia</option>
+                            <option class="non-slect" name="ML">Mali</option>
+                            <option class="non-slect" name="MM">Myanmar</option>
+                            <option class="non-slect" name="MN">Mongolia</option>
+                            <option class="non-slect" name="MO">Macao</option>
+                            <option class="non-slect" name="MP">Northern Mariana Islands</option>
+                            <option class="non-slect" name="MQ">Martinique</option>
+                            <option class="non-slect" name="MR">Mauritania</option>
+                            <option class="non-slect" name="MS">Montserrat</option>
+                            <option class="non-slect" name="MT">Malta</option>
+                            <option class="non-slect" name="MU">Mauritius</option>
+                            <option class="non-slect" name="MV">Maldives</option>
+                            <option class="non-slect" name="MW">Malawi</option>
+                            <option class="non-slect" name="MX">Mexico</option>
+                            <option class="non-slect" name="MY">Malaysia</option>
+                            <option class="non-slect" name="MZ">Mozambique</option>
+                            <option class="non-slect" name="NA">Namibia</option>
+                            <option class="non-slect" name="NC">New Caledonia</option>
+                            <option class="non-slect" name="NE">Niger</option>
+                            <option class="non-slect" name="NF">Norfolk Island</option>
+                            <option class="non-slect" name="NG">Nigeria</option>
+                            <option class="non-slect" name="NI">Nicaragua</option>
+                            <option class="non-slect" name="NL">Netherlands</option>
+                            <option class="non-slect" name="NO">Norway</option>
+                            <option class="non-slect" name="NP">Nepal</option>
+                            <option class="non-slect" name="NR">Nauru</option>
+                            <option class="non-slect" name="NU">Niue</option>
+                            <option class="non-slect" name="NZ">New Zealand</option>
+                            <option class="non-slect" name="OM">Oman</option>
+                            <option class="non-slect" name="PA">Panama</option>
+                            <option class="non-slect" name="PE">Peru</option>
+                            <option class="non-slect" name="PF">French Polynesia</option>
+                            <option class="non-slect" name="PG">Papua New Guinea</option>
+                            <option class="non-slect" name="PH">Philippines</option>
+                            <option class="non-slect" name="PK">Pakistan</option>
+                            <option class="non-slect" name="PL">Poland</option>
+                            <option class="non-slect" name="PM">Saint Pierre and Miquelon</option>
+                            <option class="non-slect" name="PN">Pitcairn</option>
+                            <option class="non-slect" name="PR">Puerto Rico</option>
+                            <option class="non-slect" name="PS">Palestinian Territory</option>
+                            <option class="non-slect" name="PT">Portugal</option>
+                            <option class="non-slect" name="PW">Palau</option>
+                            <option class="non-slect" name="PY">Paraguay</option>
+                            <option class="non-slect" name="QA">Qatar</option>
+                            <option class="non-slect" name="RE">Reunion</option>
+                            <option class="non-slect" name="RO">Romania</option>
+                            <option class="non-slect" name="RS">Serbia</option>
+                            <option class="non-slect" name="RU">Russian Federation</option>
+                            <option class="non-slect" name="RW">Rwanda</option>
+                            <option class="non-slect" name="SA">Saudi Arabia</option>
+                            <option class="non-slect" name="SB">Solomon Islands</option>
+                            <option class="non-slect" name="SC">Seychelles</option>
+                            <option class="non-slect" name="SD">Sudan</option>
+                            <option class="non-slect" name="SE">Sweden</option>
+                            <option class="non-slect" name="SG">Singapore</option>
+                            <option class="non-slect" name="SH">Saint Helena</option>
+                            <option class="non-slect" name="SI">Slovenia</option>
+                            <option class="non-slect" name="SJ">Svalbard and Jan Mayen</option>
+                            <option class="non-slect" name="SK">Slovakia</option>
+                            <option class="non-slect" name="SL">Sierra Leone</option>
+                            <option class="non-slect" name="SM">San Marino</option>
+                            <option class="non-slect" name="SN">Senegal</option>
+                            <option class="non-slect" name="SO">Somalia</option>
+                            <option class="non-slect" name="SR">Suriname</option>
+                            <option class="non-slect" name="SS">South Sudan</option>
+                            <option class="non-slect" name="ST">Sao Tome and Principe</option>
+                            <option class="non-slect" name="SV">El Salvador</option>
+                            <option class="non-slect" name="SX">Sint Maarten</option>
+                            <option class="non-slect" name="SY">Syrian Arab Republic</option>
+                            <option class="non-slect" name="SZ">Swaziland</option>
+                            <option class="non-slect" name="TC">Turks and Caicos Islands</option>
+                            <option class="non-slect" name="TD">Chad</option>
+                            <option class="non-slect" name="TF">French Southern Territories</option>
+                            <option class="non-slect" name="TG">Togo</option>
+                            <option class="non-slect" name="TH">Thailand</option>
+                            <option class="non-slect" name="TJ">Tajikistan</option>
+                            <option class="non-slect" name="TK">Tokelau</option>
+                            <option class="non-slect" name="TL">Timor-Leste</option>
+                            <option class="non-slect" name="TM">Turkmenistan</option>
+                            <option class="non-slect" name="TN">Tunisia</option>
+                            <option class="non-slect" name="TO">Tonga</option>
+                            <option class="non-slect" name="TR">Turkey</option>
+                            <option class="non-slect" name="TT">Trinidad and Tobago</option>
+                            <option class="non-slect" name="TV">Tuvalu</option>
+                            <option class="non-slect" name="TW">Taiwan</option>
+                            <option class="non-slect" name="TZ">Tanzania, United Republic of</option>
+                            <option class="non-slect" name="UA">Ukraine</option>
+                            <option class="non-slect" name="UG">Uganda</option>
+                            <option class="non-slect" name="UM">United States Minor Outlying Islands</option>
+                            <option class="non-slect" name="US">United States</option>
+                            <option class="non-slect" name="UY">Uruguay</option>
+                            <option class="non-slect" name="UZ">Uzbekistan</option>
+                            <option class="non-slect" name="VA">Holy See (Vatican City State)</option>
+                            <option class="non-slect" name="VC">Saint Vincent and the Grenadines</option>
+                            <option class="non-slect" name="VE">Venezuela</option>
+                            <option class="non-slect" name="VG">Virgin Islands, British</option>
+                            <option class="non-slect" name="VI">Virgin Islands, U.S.</option>
+                            <option class="non-slect" name="VN">Vietnam</option>
+                            <option class="non-slect" name="VU">Vanuatu</option>
+                            <option class="non-slect" name="WF">Wallis and Futuna</option>
+                            <option class="non-slect" name="WS">Samoa</option>
+                            <option class="non-slect" name="YE">Yemen</option>
+                            <option class="non-slect" name="YT">Mayotte</option>
+                            <option class="non-slect" name="ZA">South Africa</option>
+                            <option class="non-slect" name="ZM">Zambia</option>
+                            <option class="non-slect" name="ZW">Zimbabwe</option>
+                          </select>
+                        </div>
+                        <script type="text/javascript">
+                          var arrt = [];
+
+                          function chan(x) {
+                            this.event.stopPropagation();
+                            this.event.preventDefault();
+                            console.log("test");
+                            var cslt = x.children[x.selectedIndex];
+                            if (cslt.className === "y-slect") {
+                              cslt.className = "non-slect";
+                              arrt = arrt.filter(item => item !== cslt.innerHTML)
+                            } else {
+                              cslt.className = "y-slect";
+                              arrt.push(cslt.innerHTML);
+                            }
+                            x.children[0].innerHTML = arrt.toString();
+                            x.selectedIndex = 0;
+                          }
+                        </script>
+                      </div>
+                    </div>
+
+                    <div class="row">
+                      <div class="col-12">
+                        <!-- text input -->
+                        <div class="form-group">
+                          <button type="button" class="btn btn-block btn-primary btn-lg" onclick="ordenar(true);">Search</button>
+                        </div>
+                      </div>
+                    </div>
+                  </form>
+                </div>
+                <!-- /.card-body -->
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="card card-secondary">
+                <div class="card-header">
+                  <h3 class="card-title">All countries around the world.</h3>
+                </div>
+                <div class="card-body">
+
+                  <div id="svgMap">
+
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-12">
+              <div class="card">
+                <div class="card-body">
+                  <h2>
+                    
+                      Are free proxies safe?
+                    
+                  </h2>
+                  <p class="lead">
+                    
+                      Using a proxy from a free proxy server list, you are sharing that proxy with other unknown people
+                      on internet. Therefore is recommended to use free proxies only for basic web surfing where no
+                      sencitive data are involved.
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-12">
+              <div class="card">
+                <div class="card-body">
+                  <h2>
+                    
+                      Is SOCKS5 better than VPN?
+                    
+                  </h2>
+                  <p class="lead">
+                    
+                      Since both work at a low level protocol and supports various networking technologies, including
+                      IPv6 and UDP, SOCKS 5 proxies are the better option when it comes to speed, configuration and
+                      usage. You can use them together if you want to improve your security.
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <!-- /.row -->
+          </div><!-- /.container-fluid -->
+        </div>
+        <!-- /.content -->
+      </div>
+      <!-- /.content-wrapper -->
+
+      
+      <div id="cook2" class="cookies">
+        <div class="container">
+          <div class="col-sm-12">This website use cookies to give the best experience to the users.<span class="mobile-hidden"> If you continue navigating through the website, we'll assume that you are happy to receive all cookies. However, if you would like to, you can change your browser settings at any time.</span> <a href="https://www.proxy-list.download/Privacy">Find out more</a>. <button onclick="agreeC();" class="close-cookie-warning" style="left:15px;">Accept</button></div>
+        </div>
+      </div>
+      <div id="cook1" class="cookies ccadb">
+        <div class="container ccadbh">
+          <div class="col-sm-12 ccadbp">Unable to load the full list. Some ad blockers may interfere with the correct loading of the page.</div>
+        </div>
+      </div>
+      <!-- Main Footer -->
+      <footer>
+        <div id="foott">
+            <div id="info">
+                <div class="footlab"><a href="https://www.proxy-list.download/FAQ">FAQ</a></div>
+                <div class="footlab"><a href="https://www.proxy-list.download/Disclaimer">Disclaimer</a></div>
+                <div class="footlab"><a href="https://www.proxy-list.download/Privacy">Privacy Policy</a></div>
+                <div class="footlab"><a href="https://www.proxy-list.download/Contact">Contact Us</a></div>
+            </div>
+            <div id="APM">
+                <div id="APMM"><a href="http://nic.download/apm.html"><img alt="APM SEAL" src="https://www.proxy-list.download/img/APM-SEAL.webp"></a></div>
+            </div>
+            <div class="separadorfoot"></div>
+        </div>
+    </footer>
+    </div>
+    <!-- ./wrapper -->
+
+    <!-- REQUIRED SCRIPTS -->
+    <script defer src="https://www.proxy-list.download/js/adsbygoogle.js"></script>
+    <script defer src="https://www.proxy-list.download/js/svgmap5.js"></script>
+    <link href="https://www.proxy-list.download/css/svgMap.css" rel="stylesheet" media="print" onload="this.media='all'">
+    <script defer src="https://www.proxy-list.download/js/analytics.js"></script>
+    <script defer src="https://www.proxy-list.download/js/cookies-policy.js"></script>
+    <script defer src="https://www.proxy-list.download/js/fontawesome.js"></script>
+    <script data-ad-client="ca-pub-4885580881066010" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script type="text/javascript">setTimeout(function(){
+    if(islstt && llstt){document.getElementById("cook1").style.display = "block";}}, 5000);</script>
+</body>
+
+</html>
