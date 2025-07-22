@@ -3,7 +3,7 @@ name: Scrape SOCKS5 Proxies
 on:
   schedule:
     # 每6小时运行一次
-    - cron: '0 */6 * * *'
+    - cron: '*/6 * * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
