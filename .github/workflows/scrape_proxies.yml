@@ -3,7 +3,7 @@ name: Scrape SOCKS5 Proxies
 on:
   schedule:
     # 每6小时运行一次
-    - cron: '*/6 * * * *'
+    - cron: '0 */6 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
@@ -26,6 +26,7 @@ jobs:
         
     - name: Run proxy scraper
       run: python proxy_scraper.py
+      timeout-minutes: 5  # 设置最大运行时间为5分钟
       
     - name: Commit and push if changed
       run: |
