@@ -96,47 +96,51 @@ def test_proxy(proxy):
     ip, port = proxy.split(':')
     port = int(port)
     
-    # 设置超时时间
-    socket.setdefaulttimeout(5)
+    # 设置更短的超时时间
+    socket.setdefaulttimeout(3)
     
-    # 尝试多个目标网站
+    # 只测试谷歌和Telegram
     test_sites = [
-        ('www.google.com', 80),
-        ('www.bing.com', 80),
-        ('www.baidu.com', 80),
-        ('www.yahoo.com', 80)
+        ('www.google.com', 80, False),  # 测试谷歌连接 (HTTP)
+        ('api.telegram.org', 443, True)  # 测试Telegram连接 (HTTPS)
     ]
     
-    # 最大重试次数
-    max_retries = 2
-    
-    for site, port_num in test_sites:
-        for attempt in range(max_retries):
-            try:
-                # 创建一个SOCKS5代理连接
-                sock = socks.socksocket()
-                sock.set_proxy(socks.SOCKS5, ip, port)
+    # 不使用重试，减少运行时间
+    for site, port_num, is_https in test_sites:
+        try:
+            # 创建一个SOCKS5代理连接
+            sock = socks.socksocket()
+            sock.set_proxy(socks.SOCKS5, ip, port)
+            
+            # 设置连接超时
+            sock.settimeout(3)
+            
+            # 尝试连接到目标网站
+            start_time = time.time()
+            sock.connect((site, port_num))
+            
+            # 如果是HTTPS，发送不同的请求
+            if is_https:
+                # 对于HTTPS，我们只测试TCP连接是否成功，不发送实际的HTTP请求
+                pass
+            else:
+                # 对于HTTP，发送简单的HTTP请求
+                try:
+                    sock.send(f"GET / HTTP/1.1\r\nHost: {site}\r\n\r\n".encode())
+                    sock.recv(1024)
+                except:
+                    # 忽略HTTP请求的错误，只要TCP连接成功就算代理可用
+                    pass
+            
+            # 如果连接成功，则认为代理可用
+            connect_time = time.time() - start_time
+            sock.close()
+            
+            print(f"代理 {proxy} 可用 (通过 {site}，连接时间: {connect_time:.2f}秒)")
+            return proxy
                 
-                # 尝试连接到目标网站
-                sock.connect((site, port_num))
-                
-                # 尝试发送HTTP请求
-                sock.send(f"GET / HTTP/1.1\r\nHost: {site}\r\n\r\n".encode())
-                
-                # 接收响应
-                response = sock.recv(1024)
-                sock.close()
-                
-                if response:
-                    print(f"代理 {proxy} 可用 (通过 {site})")
-                    return proxy
-                
-            except Exception as e:
-                if attempt < max_retries - 1:
-                    print(f"代理 {proxy} 连接 {site} 失败，尝试重试: {e}")
-                    time.sleep(1)  # 重试前等待1秒
-                else:
-                    print(f"代理 {proxy} 连接 {site} 失败: {e}")
+        except Exception as e:
+            print(f"代理 {proxy} 连接 {site} 失败: {e}")
     
     print(f"代理 {proxy} 不可用: 所有测试站点均连接失败")
     return None
@@ -211,11 +215,26 @@ def main():
         print("未从任何源获取到代理，程序退出")
         return
     
-    # 使用线程池测试代理
+    # 使用线程池测试代理，减少并发数量以避免过多连接
     working_proxies = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
-        future_to_proxy = {executor.submit(test_proxy, proxy): proxy for proxy in proxies}
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        # 添加超时控制
+        future_to_proxy = {}
+        for proxy in proxies:
+            future = executor.submit(test_proxy, proxy)
+            future_to_proxy[future] = proxy
+        
+        # 设置总体超时时间为2分钟
+        start_time = time.time()
+        timeout = 120  # 2分钟
+        
+        # 处理已完成的任务
         for future in concurrent.futures.as_completed(future_to_proxy):
+            # 检查是否超时
+            if time.time() - start_time > timeout:
+                print(f"测试超时，已经运行{timeout}秒，停止测试剩余代理")
+                break
+                
             result = future.result()
             if result:
                 working_proxies.append(result)
