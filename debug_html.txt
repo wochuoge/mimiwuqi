@@ -234,7 +234,53 @@
                             
                             <tr>
                               <td>
-                                192.111.138.29
+                                67.201.59.70
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  128 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                70.166.167.55
+                              </td>
+                              <td>
+                                57745
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  189 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.178.172.17
                               </td>
                               <td>
                                 4145
@@ -252,219 +298,12 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  313 ms</span></td>
+                                  173 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                184.178.172.13
-                              </td>
-                              <td>
-                                15311
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  196 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                70.166.167.38
-                              </td>
-                              <td>
-                                57728
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  235 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                184.178.172.28
-                              </td>
-                              <td>
-                                15294
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  188 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                72.195.34.42
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  239 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                67.201.35.145
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  266 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                74.119.147.209
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  359 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                142.54.237.34
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  390 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                184.181.217.220
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  214 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                142.54.231.38
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  151 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                74.119.144.60
+                                142.54.228.193
                               </td>
                               <td>
                                 4145
@@ -482,12 +321,12 @@
                               <td><span class="badge 
                                       bg-teal
                                   ">
-                                  95 ms</span></td>
+                                  98 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                199.229.254.129
+                                107.152.98.5
                               </td>
                               <td>
                                 4145
@@ -505,12 +344,81 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  257 ms</span></td>
+                                  219 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                184.178.172.3
+                                69.64.48.129
+                              </td>
+                              <td>
+                                25582
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  197 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                51.83.190.248
+                              </td>
+                              <td>
+                                19050
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgFR">
+                                </i>
+                                <a href="?country=FR">
+                                  France
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  350 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.252.209.158
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgCA">
+                                </i>
+                                <a href="?country=CA">
+                                  Canada
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  365 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.185.2.12
                               </td>
                               <td>
                                 4145
@@ -528,35 +436,35 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  264 ms</span></td>
+                                  294 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                174.77.111.198
+                                185.213.169.147
                               </td>
                               <td>
-                                49547
+                                1080
                               </td>
                               <td>
                                 Elite
                               </td>
                               <td>
-                                <i class="tflg tflgUS">
+                                <i class="tflg tflgTR">
                                 </i>
-                                <a href="?country=US">
-                                  United States
+                                <a href="?country=TR">
+                                  Turkey
                                 </a>
                               </td>
                               <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  201 ms</span></td>
+                                      bg-orange
+                                  ">
+                                  111 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                184.178.172.14
+                                199.187.210.54
                               </td>
                               <td>
                                 4145
@@ -574,15 +482,38 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  188 ms</span></td>
+                                  360 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                142.54.232.6
+                                103.36.11.18
                               </td>
                               <td>
-                                4145
+                                8199
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgID">
+                                </i>
+                                <a href="?country=ID">
+                                  Indonesia
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  357 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                72.195.34.35
+                              </td>
+                              <td>
+                                27360
                               </td>
                               <td>
                                 Elite
@@ -597,76 +528,7 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  154 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                142.54.236.97
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  216 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                199.102.105.242
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  220 ms</span></td>
-                            </tr>
-                            
-                            <tr>
-                              <td>
-                                199.58.185.9
-                              </td>
-                              <td>
-                                4145
-                              </td>
-                              <td>
-                                Elite
-                              </td>
-                              <td>
-                                <i class="tflg tflgUS">
-                                </i>
-                                <a href="?country=US">
-                                  United States
-                                </a>
-                              </td>
-                              <td><span class="badge 
-                                    bg-danger
-                                ">
-                                  170 ms</span></td>
+                                  284 ms</span></td>
                             </tr>
                             
                             <tr>
@@ -689,12 +551,58 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  167 ms</span></td>
+                                  205 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                174.64.199.79
+                                5.35.38.205
+                              </td>
+                              <td>
+                                1080
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgRU">
+                                </i>
+                                <a href="?country=RU">
+                                  Russia
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  333 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                72.37.216.68
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  115 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.252.220.89
                               </td>
                               <td>
                                 4145
@@ -712,12 +620,12 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  170 ms</span></td>
+                                  342 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                68.1.210.189
+                                206.220.175.2
                               </td>
                               <td>
                                 4145
@@ -735,12 +643,35 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  160 ms</span></td>
+                                  367 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                199.102.104.70
+                                192.111.135.18
+                              </td>
+                              <td>
+                                18301
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  251 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                72.195.34.59
                               </td>
                               <td>
                                 4145
@@ -758,15 +689,61 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  364 ms</span></td>
+                                  306 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                208.102.51.6
+                                68.1.210.163
                               </td>
                               <td>
-                                58208
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  304 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                142.54.229.249
+                              </td>
+                              <td>
+                                4145
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgUS">
+                                </i>
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                    bg-danger
+                                ">
+                                  215 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                184.178.172.26
+                              </td>
+                              <td>
+                                4145
                               </td>
                               <td>
                                 Elite
@@ -786,7 +763,7 @@
                             
                             <tr>
                               <td>
-                                184.170.245.148
+                                72.195.34.42
                               </td>
                               <td>
                                 4145
@@ -804,12 +781,12 @@
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  302 ms</span></td>
+                                  297 ms</span></td>
                             </tr>
                             
                             <tr>
                               <td>
-                                192.111.130.2
+                                192.111.137.35
                               </td>
                               <td>
                                 4145
@@ -818,16 +795,39 @@
                                 Elite
                               </td>
                               <td>
-                                <i class="tflg tflgCA">
+                                <i class="tflg tflgUS">
                                 </i>
-                                <a href="?country=CA">
-                                  Canada
+                                <a href="?country=US">
+                                  United States
+                                </a>
+                              </td>
+                              <td><span class="badge 
+                                      bg-orange
+                                  ">
+                                  101 ms</span></td>
+                            </tr>
+                            
+                            <tr>
+                              <td>
+                                192.177.139.168
+                              </td>
+                              <td>
+                                9000
+                              </td>
+                              <td>
+                                Elite
+                              </td>
+                              <td>
+                                <i class="tflg tflgDE">
+                                </i>
+                                <a href="?country=DE">
+                                  Germany
                                 </a>
                               </td>
                               <td><span class="badge 
                                     bg-danger
                                 ">
-                                  214 ms</span></td>
+                                  262 ms</span></td>
                             </tr>
                             
 
